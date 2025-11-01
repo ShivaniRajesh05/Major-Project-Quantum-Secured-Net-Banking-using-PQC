@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Quantum-Safe Banking Framework
 
 This project demonstrates **hybrid encryption** using **Post-Quantum Cryptography (PQC)** in a simple **client–server model**.
@@ -69,6 +68,7 @@ python client.py
 This demo highlights how **quantum-safe encryption** can be integrated into financial communication systems, ensuring security even in the post-quantum era.
 
 ---
+
 
 
 
