@@ -35,5 +35,5 @@ Expected Output:
 [SERVER] Signature valid: True
 [SERVER] --- End of transaction ---
 
-You can safely replace the mock encrypt/sign logic inside crypto_utils.py
-once pqcrypto provides the full functions in your environment.
+
+
